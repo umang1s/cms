@@ -1,0 +1,52 @@
+@charset "utf-8";
+/* CSS Document */
+.Header
+{background-size:"40px";
+	margin: 0px;
+background: #93ce0b;}
+
+.Home {
+	background:#025717f5;
+	background-size: "40px";
+}
+.left{
+	font-family: "antic-didone";
+	letter-spacing: 2pt;
+	font-size: 18pt;
+	width:400px;
+	border: hidden 2px ;
+	padding-left: 10px;
+	margin-top: 30px;
+	margin-left: 2px;
+	
+}
+.track{
+	position:absolute;
+	top: 400px;
+	left: 50%;
+	border-radius:10px ;
+	padding: 20px;
+	width: 500px;
+	height: 200px;
+	background-color:#4F4F4F;
+		
+}
+
+.team{
+	background-color: #000000;
+	
+	
+}
+
+a:hover{
+	color: #FF0004;
+	background-color: #000000;
+	color: #FFFFFF;
+}
+
+a:link, a:visited{
+	color: #000000;
+	text-decoration: none;
+	
+}
+
