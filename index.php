@@ -10,7 +10,7 @@
 <html>
     <head>
         <title>
-            Home-
+            -Home-
         </title>
         <meta name="viewport" content="width=device-width,initial-scalse=1.0">
         <link rel="stylesheet" href="css/css.css">
